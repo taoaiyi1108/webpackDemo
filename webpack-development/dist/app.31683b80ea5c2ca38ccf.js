@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[0],{tjUo:function(e,n,t){"use strict";t.r(n);var o,d,c,l=t("LvDl"),a=t.n(l);document.body.appendChild((o=document.createElement("div"),d=document.createElement("button"),c=document.createElement("br"),d.innerHTML="Click me and look at the console!",o.innerHTML=a.a.join(["Hello","webpack"]," "),o.appendChild(c),o.appendChild(d),d.onclick=(e=>t.e(3).then(t.bind(null,"dSPy")).then(e=>{(0,e.default)()})),o))}},[["tjUo",1,2]]]);
+//# sourceMappingURL=app.31683b80ea5c2ca38ccf.js.map
